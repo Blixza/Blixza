@@ -10,3 +10,5 @@
 
 ### My OS
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows101.svg">
+
+<img src="assets/activity.png">
