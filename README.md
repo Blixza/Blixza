@@ -6,7 +6,7 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma2.svg">
 
 ### Learning
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs2.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg"><img src="">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs2.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg">
 
 ### Tools I use
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim1.svg">
